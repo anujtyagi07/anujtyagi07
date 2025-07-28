@@ -46,7 +46,7 @@
 
 ### 🧑‍💻 [Personal Portfolio](https://github.com/yourusername/portfolio)  
 > A responsive personal portfolio built using HTML, CSS, and JavaScript showcasing my skills, projects, resume, and contact details.  
-> 🔗 [Live Site](https://your-portfolio.netlify.app)
+> 🔗 [Live Site](https://anuj-tyagi-portfolio.netlify.app)
 
 ### 🌤️ [Weather Forecast App](https://github.com/yourusername/weather-app)  
 > Responsive weather app using OpenWeather API, built with HTML, CSS, and Vanilla JS.
@@ -56,21 +56,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujtyagi&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujtyagi&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌐 [Portfolio](https://your-portfolio.netlify.app)
-- 📧 anuj@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/anuj-tyagi-a1109b203/))
+- 🌐 [Portfolio](https://anuj-tyagi-portfolio.netlify.app/)
+- 📧 anujtyagi0720@gmail.com
 
 ---
 
